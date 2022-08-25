@@ -537,6 +537,7 @@ body.lock {
 }
 
 @media (max-width: 770px) {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   .menu__icon {
     display: block;
     top: 26px;
